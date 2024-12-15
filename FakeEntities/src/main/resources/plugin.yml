@@ -1,0 +1,8 @@
+name: FakeEntities
+version: 1.0
+main: com.seunome.NodeInstallerPlugin
+api-version: 1.8
+commands:
+  fakeentities:
+    description: Comando para ativar as entidades fictícias.
+    usage: /<command>
